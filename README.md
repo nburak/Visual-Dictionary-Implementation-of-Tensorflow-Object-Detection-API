@@ -12,4 +12,7 @@ Yes, you can train your own model. So, software will be able to detect much more
 
 <h3>Example</h3>
 <p>Used Image</p>
-<img src="https://github.com/nburak/Visual-Dictionary-Implementation-of-Tensorflow-Object-Detection-API/blob/master/00003.jpg?raw=true" width="200px" height=auto"">
+<img src="https://github.com/nburak/Visual-Dictionary-Implementation-of-Tensorflow-Object-Detection-API/blob/master/00003.jpg?raw=true" width="400px" height=auto"">
+<p>Result</p>
+<img src="https://github.com/nburak/Visual-Dictionary-Implementation-of-Tensorflow-Object-Detection-API/blob/master/Screenshot%202019-10-16%20at%2000.42.53.png?raw=true" width="400px" height=auto"">
+
