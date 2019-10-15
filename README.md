@@ -17,6 +17,6 @@ Yes, you can train your own model. So, software will be able to detect much more
 <img src="https://github.com/nburak/Visual-Dictionary-Implementation-of-Tensorflow-Object-Detection-API/blob/master/Screenshot%202019-10-16%20at%2000.42.53.png?raw=true" width="400px" height="auto"  border="5">
 
 <h3>Used Technologies</h3>
-Python and Flask were chosen as programming language and development server.
-Tensorflow object detection API was chosen for object detection.
-Google translate api was chosen for translation of detected objects.
+<p>Python and Flask were chosen as programming language and development server.</p>
+<p>Tensorflow object detection API was chosen for object detection.</p>
+<p>Google translate api was chosen for translation of detected objects.</p>
