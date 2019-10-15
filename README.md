@@ -1,6 +1,9 @@
 # Visual Dictionary : Implementation of Tensorflow Object Detection API
 Tensorflow object detection API was used to create this application.
 
+<h3>Very Important!</h3>
+Full source code can be reached using release tab above. Also main.py file can be used for referencing.
+
 <h3>What it does?</h3>
 It provides a web page and users can upload images using this web page. After clicking on search button, it will return translation of the object in the picture for different languages. (English, Spanish, German, French and Turkish)
 
