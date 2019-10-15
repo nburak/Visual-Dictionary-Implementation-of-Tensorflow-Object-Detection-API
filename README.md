@@ -9,3 +9,7 @@ It uses pre-trained SSD model by Google and this model was trained using coco da
 
 <h3>Can another neural network model be used?</h3>
 Yes, you can train your own model. So, software will be able to detect much more different object class. This is for referencing and standard SSD model of Google was used.
+
+<h3>Example</h3>
+<p>Used Image</p>
+<img src="https://github.com/nburak/Visual-Dictionary-Implementation-of-Tensorflow-Object-Detection-API/blob/master/00003.jpg?raw=true" width="200px" height=auto"">
